@@ -1,0 +1,7 @@
+# Build trash
+.dep.inc
+build/
+dist/
+
+# IDE Trash
+nbproject/
